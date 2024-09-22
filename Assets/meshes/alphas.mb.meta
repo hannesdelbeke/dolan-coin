@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: ef119bc5dd187ea438ec40b9dab355e0
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bar
+    100004: box
+    100006: dolan
+    100008: dolan_bar1
+    100010: dolan_face
+    100012: dolan_hat
+    100014: goby
+    100016: goby_hat
+    100018: level_up
+    100020: pCylinder1
+    100022: polySurface2
+    100024: polySurface3
+    100026: polySurface5
+    100028: polySurface7
+    100030: polySurface8
+    100032: pPlane1
+    100034: pPlane2
+    100036: pPlane3
+    400000: //RootNode
+    400002: bar
+    400004: box
+    400006: dolan
+    400008: dolan_bar1
+    400010: dolan_face
+    400012: dolan_hat
+    400014: goby
+    400016: goby_hat
+    400018: level_up
+    400020: pCylinder1
+    400022: polySurface2
+    400024: polySurface3
+    400026: polySurface5
+    400028: polySurface7
+    400030: polySurface8
+    400032: pPlane1
+    400034: pPlane2
+    400036: pPlane3
+    2300000: bar
+    2300002: box
+    2300004: dolan
+    2300006: dolan_bar1
+    2300008: dolan_face
+    2300010: dolan_hat
+    2300012: goby
+    2300014: goby_hat
+    2300016: level_up
+    2300018: pCylinder1
+    3300000: bar
+    3300002: box
+    3300004: dolan
+    3300006: dolan_bar1
+    3300008: dolan_face
+    3300010: dolan_hat
+    3300012: goby
+    3300014: goby_hat
+    3300016: level_up
+    3300018: pCylinder1
+    4300000: pCylinder1
+    4300002: dolan_bar1
+    4300004: goby_hat
+    4300006: dolan_face
+    4300008: dolan_hat
+    4300010: level_up
+    4300012: bar
+    4300014: box
+    4300016: goby
+    4300018: dolan
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
